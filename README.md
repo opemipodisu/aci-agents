@@ -1,7 +1,7 @@
 # Aipolabs Agents
 
 AI agents built with ACI.dev along with many examples of how to use ACI.dev with
-different LLMs and agent frameworks such as langchain, CrewAI, Llama Index, etc...
+different LLMs and agent frameworks such as langchain, CrewAI, Llama Index, etc..
 
 
 ## Patterns
