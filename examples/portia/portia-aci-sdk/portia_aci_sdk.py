@@ -13,7 +13,7 @@ from custom_tools.registry import custom_tool_registry
 
 load_dotenv(override=True)
 
-# Instantiate Portia with the custom tools
+# Instantiate Portia with the custom toolss
 portia = Portia(tools=custom_tool_registry)
 
 # get the environment variables
